@@ -1,6 +1,6 @@
 # Google Homepage Clone
 
-![homepage clone]([link-to-screenshot-or-image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Homepage.svg/1280px-Google_Homepage.svg.png))
+![homepage clone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Homepage.svg/1280px-Google_Homepage.svg.png)
 
 This repository contains a clone of the Google homepage created using HTML and CSS. It serves as a fun project to practice web development skills and learn more about front-end technologies.
 
